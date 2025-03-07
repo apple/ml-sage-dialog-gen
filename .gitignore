@@ -1,0 +1,31 @@
+# API Keys and Secrets
+.env
+.env.local
+.env.*
+*.pem3
+*secrets.json
+
+# Python virtual environment
+venv/
+env/
+.venv/
+.env/
+
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# MISC
+.DS_Store
+
+# Logs
+*.log
+*.yaml
+
+# Data
+data_mix
+*_reannot.json
+

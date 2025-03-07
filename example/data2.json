@@ -1,0 +1,44 @@
+[
+    {
+      "id": "identity_3",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "Sure, I'd do that. Were there any other cards you wanted? Or just want to do a one for one?"
+        },
+        {
+          "from": "gpt",
+          "value": "I like that Koga's Grimer, but I'm not sure i you're interested in any other card of mine."
+        },
+        {
+          "from": "human",
+          "value": "I'll give you that one and Moomoo Milk for Nosepass! I think the reverse foil makes that one more valuable anyway."
+        },
+        {
+          "from": "gpt",
+          "value": "Hey, great! So we have a deal? PM me and we can work out the details."
+        }
+      ]
+    },
+    {
+      "id": "identity_4",
+      "conversations": [
+        {
+          "from": "human",
+          "value": "Yeah sure. Let me know when you want to trade."
+        },
+        {
+          "from": "gpt",
+          "value": "How about now?"
+        },
+        {
+          "from": "human",
+          "value": "Yeah sure. Is the FC on your flair the correct one? Add me anyway and I'll be there in a couple minutes."
+        },
+        {
+          "from": "gpt",
+          "value": "It is, I play both my games on the same 3DS so I don't have to switch around too much. I added you, waiting now : 3"
+        }
+      ]
+    }
+]

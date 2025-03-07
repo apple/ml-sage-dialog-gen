@@ -1,0 +1,10 @@
+    {
+        "data1_reannot.json": {
+            "prompt": "",
+            "size": 2
+        },
+        "data2_reannot.json": {
+            "prompt": "",
+            "size": 2
+        }
+    }
