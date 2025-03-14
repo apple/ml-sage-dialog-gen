@@ -4,7 +4,7 @@
 </p>
 
 <!-- # SAGE  -->
-[![Huggingface Models](https://img.shields.io/badge/Models-Huggingface%20Models-bron)](https://huggingface.co/diffusionfamily)
+[![Huggingface Models](https://img.shields.io/badge/Models-Huggingface%20Models-bron)](https://huggingface.co/apple/sage-ft-mixtral-8x7b)
 [![Paper](https://img.shields.io/badge/Paper-Arvix%20Link-green)](https://arxiv.org/abs/2503.03040)
 
 This software project accompanies the research paper, [SAGE: Steering and Refining Dialog Generation with State-Action Augmentation](https://arxiv.org/abs/2503.03040).
@@ -31,7 +31,7 @@ The dialog rollout prompt is sourced from [EmpatheticDialogues](https://github.c
 
 ## Model checkpoint
 
-The model checkpoint will be released soon.
+The model checkpoint can be found at [huggingface hub](https://huggingface.co/apple/sage-ft-mixtral-8x7b)
 
 ## Getting Started
 
